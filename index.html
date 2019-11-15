@@ -23,10 +23,12 @@
       </div>
 
       <div id="direction">
-        <h1><b>Direction</b></h1 >
+        <h1>Direction</h1>
+        <h2>740 Irving Way, Big Bear, CA 92314</h2 >
         <br>
         <div id="map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3297.5375118546876!2d-116.83383858512028!3d34.260343114182916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x80c4b5ba0f6859c7%3A0x6c9067455d0032e3!2s740%20Irving%20Way%2C%20Big%20Bear%2C%20CA%2092314!3m2!1d34.2603387!2d-116.83164989999999!5e0!3m2!1sen!2sus!4v1573795084951!5m2!1sen!2sus" width="630" height="450" frameborder="0" style="border-radius:10px; opacity: 80%" allowfullscreen=""></iframe>
+          <a href=https://goo.gl/maps/n9KJ5nhczHjKv7w47 target="_blank">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3297.5376856600683!2d-116.83383858477956!3d34.260338680549935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c4b5ba0f6859c7%3A0x6c9067455d0032e3!2s740%20Irving%20Way%2C%20Big%20Bear%2C%20CA%2092314!5e0!3m2!1sen!2sus!4v1573795780804!5m2!1sen!2sus" width="630" height="450" frameborder="0" style="border-radius:10px; opacity: 80%" allowfullscreen=""></iframe></a>
          </div>
       </div>
 
