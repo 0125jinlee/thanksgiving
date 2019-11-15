@@ -1,0 +1,25 @@
+/*
+*  Responsive Design for Mobile
+*/
+
+#head {
+  margin-top: 0;
+  border-radius: 0;
+}
+
+#head_text {
+  display: relative;
+  position: center;
+}
+
+#info {
+  border-radius: 0;
+}
+
+#slide img {
+  opacity: 100%
+}
+
+#footer_text {
+  text-align: left;
+}
