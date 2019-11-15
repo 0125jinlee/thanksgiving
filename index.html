@@ -6,8 +6,7 @@
     <link rel="stylesheet" href="style/reset.css">
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/small.css" media="(max-width:630px)">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
 
@@ -19,7 +18,7 @@
     <div id="main">
       <div id="info">
         <h1>Save the Dates!</h1>
-        <h2>WED. NOV. 27th - FRI. NOV. 29th</h2>
+        <h2>WED NOV 27 - FRI NOV 29</h2>
         <br>
       </div>
 
