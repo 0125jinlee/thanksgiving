@@ -26,8 +26,8 @@
         <h1><b>Direction</b></h1 >
         <br>
         <div id="map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3297.5376856600683!2d-116.83383858477956!3d34.260338680549935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c4b5ba0f6859c7%3A0x6c9067455d0032e3!2s740%20Irving%20Way%2C%20Big%20Bear%2C%20CA%2092314!5e0!3m2!1sen!2sus!4v1573784872897!5m2!1sen!2sus" width="630" height="450" frameborder="0" style="border-radius:10px; opacity: 80%" allowfullscreen=""></iframe>
-        </div>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3297.5375118546876!2d-116.83383858512028!3d34.260343114182916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x80c4b5ba0f6859c7%3A0x6c9067455d0032e3!2s740%20Irving%20Way%2C%20Big%20Bear%2C%20CA%2092314!3m2!1d34.2603387!2d-116.83164989999999!5e0!3m2!1sen!2sus!4v1573795084951!5m2!1sen!2sus" width="630" height="450" frameborder="0" style="border-radius:10px; opacity: 80%" allowfullscreen=""></iframe>
+         </div>
       </div>
 
       <div id="reminder">
@@ -38,7 +38,7 @@
       </div>
     
       <div id="slide">
-        <h1><b>Photos</b></h1>
+        <h1>Photos</h1>
         <br>
         <img src="https://a0.muscache.com/im/pictures/9d890d86-8899-4c78-b67e-cf6a5a0f93e6.jpg?aki_policy=xx_large" alt="House_1">
         <img src="https://a0.muscache.com/im/pictures/37bcf8f0-346f-4717-b362-dbf6bb7cbcd0.jpg?aki_policy=xx_large" alt="House_2">

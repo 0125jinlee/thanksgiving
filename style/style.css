@@ -66,13 +66,6 @@ a {
   border-radius: 10px;
 }
 
-.main_text {
-  font-size: 35px;
-  padding: 10px 0 10px 10px;
-  text-align: left;
-  opacity: 75%;
-}
-
 #info {
   background: rgba(0, 0, 0, 0.15);
   border-radius: 10px 10px 0 0;
@@ -106,7 +99,7 @@ a {
 #slide img {
   width: 100%;
   text-align: center;
-  opacity: 80%
+  opacity: 100%
 }
 
 #footer {
