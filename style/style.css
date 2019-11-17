@@ -5,8 +5,8 @@
 body {
   width: 100%;
   background: url("../images/thanksgiving-Brooke-Lark.jpg");
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-
+/*  font-family: 'M PLUS Rounded 1c', sans-serif;*/
+  font-family: 'Enriqueta', serif;
   /* Full Page Background Receipe */
   background-size: cover;
   background-position: center;

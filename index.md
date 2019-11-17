@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/small.css" media="(max-width:630px)">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Enriqueta&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
   </head>
 
@@ -23,7 +24,7 @@
       </div>
 
       <div id="direction">
-        <h1>Direction</h1>
+        <h1>Destination</h1>
         <h2>740 Irving Way, Big Bear, CA 92314</h2 >
         <br>
         <div id="map">
@@ -35,7 +36,12 @@
       <div id="reminder">
         <h2>Don't forget your...</h2>
         <ul style="list-style-type:circle;">
-          <h3>Chargers &#10004;<br>Swimming Suit &#10004;<br>Bluetooth Speaker &#10004;<br>Sandals &#10004;<br>Toothbrush &#10004;<br>Towels &#10004;</h3>
+          <h3>Swimming Suit &#10004;</h3>
+          <h3>Chargers &#10004;</h3>
+          <h3>Bluetooth Speaker &#10004;</h3>
+          <h3>Sandals &#10004;</h3>
+          <h3>Toothbrush &#10004;</h3>
+          <h3>Towels &#10004;</h3>
         </ul>
       </div>
     
